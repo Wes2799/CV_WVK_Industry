@@ -40,4 +40,3 @@ To generate the PDF locally:
 
 ```bash
 pdflatex CV_Main.tex
-pdflatex CV_Main.tex
